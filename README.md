@@ -45,9 +45,7 @@
 <!-- stacks section  -->
 ## 💻 My tech stacks
 
-### 🌐 Web development
-
-#### Frontend
+### Frontend
 <div align="left">
     <img 
         width="32" 
@@ -79,7 +77,7 @@
     />
 </div>
 
-#### Backend
+### Backend
 <div align="left">
     <img 
         width="32" 
@@ -97,7 +95,7 @@
     />
 </div>
 
-#### Frameworks
+### Frameworks
 <div align="left">
     <img 
         width="32" 
@@ -143,7 +141,7 @@
     />
 </div>
 
-#### Databases
+### Databases
 <div align="left">
     <img 
         width="32" 
@@ -168,7 +166,7 @@
     />
 </div>
 
-#### Tools
+### Tools
 <div align="left">
     <img 
         width="32" 
@@ -211,7 +209,7 @@
     />
 </div> -->
 
-#### Miscellaneous
+### Miscellaneous
 <div align="left">
     <img 
         width="32" 
