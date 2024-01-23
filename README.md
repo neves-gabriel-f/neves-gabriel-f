@@ -3,7 +3,7 @@
 <!-- about me section-->
 ## 🧙 About me
 
-<div style="margin-left: -20px; text-align: justify;text-justify: inter-word;">
+<div style="font-size: 18px; margin-left: -20px; text-align: justify;text-justify: inter-word;">
 
 * Im a <b>full stack developer</b>!
 
@@ -16,7 +16,7 @@
 
 
 <!-- github stats section  -->
-## 📈 My github stats
+## 🔮 My github stats
 
 
 <div style="display: flex; flex: row nowrap; width: 100%; height: 150px; gap: 0px 10px;">
@@ -212,7 +212,7 @@
 
 ## 🤝 Connect with me
 <div>
-<a href="https://www.linkedin.com/in/gabrielfneves/" about="_blank">
+<a href="https://www.linkedin.com/in/gabrielfneves/" target="_blank">
  <img 
         width="32" 
         alt="Linkedin" 
