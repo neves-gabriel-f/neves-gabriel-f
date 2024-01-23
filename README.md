@@ -3,7 +3,7 @@
 <!-- about me section-->
 ### 🧙 About me
 
-<div style="font-size: 14px; margin-left: -20px; text-align: justify;text-justify: inter-word;">
+<div style="font-size: 16px; margin-left: -20px; text-align: justify;text-justify: inter-word;">
 
 * Im a <b>full stack developer</b>!
 
