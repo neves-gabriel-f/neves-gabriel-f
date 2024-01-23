@@ -1,7 +1,7 @@
-## Hi there 👋 Im Gabriel!
+# Hi there 👋 Im Gabriel!
 
 <!-- about me section-->
-### 🧙 About me
+## 🧙 About me
 
 <div style="font-size: 16px; margin-left: -20px; text-align: justify;text-justify: inter-word;">
 
@@ -11,19 +11,6 @@
 
 * <b>I'm currently studying</b>: Java Spring Boot and Angular.
 
-</div>
-
-### 🤝 Connect with me
-<div>
-<a href="https://www.linkedin.com/in/gabrielfneves/" about="_blank">
- <img 
-        width="32" 
-        alt="Linkedin" 
-        title="Linkedin"
-        src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg"
-        style="margin-right: 4px; cursor:pointer;"
-    />
-</a>
 </div>
 <!-- end of about me section -->
 
@@ -221,8 +208,20 @@
 </div>
 
 <br/>
-
 <!-- end of stacks section -->
+
+## 🤝 Connect with me
+<div>
+<a href="https://www.linkedin.com/in/gabrielfneves/" about="_blank">
+ <img 
+        width="32" 
+        alt="Linkedin" 
+        title="Linkedin"
+        src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg"
+        style="margin-right: 4px; cursor:pointer;"
+    />
+</a>
+</div>
 
 
 
