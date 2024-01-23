@@ -35,28 +35,28 @@
 ### Frontend
 <div align="left">
     <img 
-        width="32" 
+        width="48" 
         alt="HTML" 
         title="HTML"
         src="https://icon.icepanel.io/Technology/svg/HTML5.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="CSS" 
         title="CSS"
         src="https://icon.icepanel.io/Technology/svg/CSS3.svg"
         style="margin-right: 4px; cursor:pointer"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="Javascript" 
         title="Javascript"
         src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" 
         style="margin-right: 4px; cursor:pointer"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="Typescript" 
         title="Typescript"
         src="https://icon.icepanel.io/Technology/svg/TypeScript.svg"
@@ -67,14 +67,14 @@
 ### Backend
 <div align="left">
     <img 
-        width="32" 
+        width="48" 
         alt="Node.js" 
         title="Node.js"
         src="https://icon.icepanel.io/Technology/svg/Node.js.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="PHP" 
         title="PHP"
         src="https://icon.icepanel.io/Technology/svg/PHP.svg"
@@ -85,42 +85,42 @@
 ### Frameworks
 <div align="left">
     <img 
-        width="32" 
+        width="48" 
         alt="React" 
         title="React"
         src="https://icon.icepanel.io/Technology/svg/React.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="Vue" 
         title="Vue"
         src="https://icon.icepanel.io/Technology/svg/Vue.js.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="Angular" 
         title="Angular"
         src="https://icon.icepanel.io/Technology/svg/AngularJS.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="Laravel" 
         title="Laravel"
         src="https://icon.icepanel.io/Technology/svg/Laravel.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="Tailwind CSS" 
         title="Tailwind CSS"
         src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="Bootstrap" 
         title="Bootstrap"
         src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg"
@@ -131,21 +131,21 @@
 ### Databases
 <div align="left">
     <img 
-        width="32" 
+        width="48" 
         alt="MongoDB" 
         title="MongoDB"
         src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="PostgresSQL" 
         title="PostgresSQL"
         src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
      <img 
-        width="32" 
+        width="48" 
         alt="MySQL" 
         title="MySQL"
         src="https://icon.icepanel.io/Technology/svg/MySQL.svg"
@@ -156,21 +156,21 @@
 ### Tools
 <div align="left">
     <img 
-        width="32" 
+        width="48" 
         alt="Postman" 
         title="Postman"
         src="https://icon.icepanel.io/Technology/svg/Postman.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="Insomnia" 
         title="Insomnia"
         src="https://icon.icepanel.io/Technology/svg/Insomnia.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
       <img 
-        width="32" 
+        width="48" 
         alt="Figma" 
         title="Figma"
         src="https://icon.icepanel.io/Technology/svg/Figma.svg"
@@ -181,14 +181,14 @@
 <!-- #### Learning... 
 <div align="left">
     <img 
-        width="32" 
+        width="48" 
         alt="Java" 
         title="Java"
         src="https://icon.icepanel.io/Technology/svg/Java.svg"
         style="margin-right: 4px; cursor:pointer;"
     />
     <img 
-        width="32" 
+        width="48" 
         alt="Spring" 
         title="Spring"
         src="https://icon.icepanel.io/Technology/svg/Spring.svg"
@@ -199,7 +199,7 @@
 ### Miscellaneous
 <div align="left">
     <img 
-        width="32" 
+        width="48" 
         alt="Trello" 
         title="Trello"
         src="https://icon.icepanel.io/Technology/svg/Trello.svg"
@@ -214,7 +214,7 @@
 <div>
 <a href="https://www.linkedin.com/in/gabrielfneves/" target="_blank">
  <img 
-        width="32" 
+        width="48" 
         alt="Linkedin" 
         title="Linkedin"
         src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg"
