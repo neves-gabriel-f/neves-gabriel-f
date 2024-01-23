@@ -2,9 +2,8 @@
 
 <!-- about me section-->
 ### 🧙 About me
-<hr/>
 
-<div style="font-size: 12px; margin-left: -20px; text-align: justify;text-justify: inter-word;">
+<div style="font-size: 14px; margin-left: -20px; text-align: justify;text-justify: inter-word;">
 
 * Im a <b>full stack developer</b>!
 
@@ -15,8 +14,6 @@
 </div>
 
 ### 🤝 Connect with me
-<hr/>
-
 <div>
 <a href="https://www.linkedin.com/in/gabrielfneves/" about="_blank">
  <img 
@@ -28,13 +25,12 @@
     />
 </a>
 </div>
-
 <!-- end of about me section -->
 
 
 <!-- github stats section  -->
-### 📈 My github stats
-<hr/>
+## 📈 My github stats
+
 
 <div style="display: flex; flex: row nowrap; width: 100%; height: 150px; gap: 0px 10px;">
 
@@ -47,8 +43,7 @@
 <!-- end of github stats section -->
 
 <!-- stacks section  -->
-### 💻 My tech stacks
-<hr/>
+## 💻 My tech stacks
 
 ### 🌐 Web development
 
