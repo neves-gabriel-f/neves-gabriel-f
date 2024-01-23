@@ -21,7 +21,7 @@
 
 <div style="display: flex; flex: row nowrap; width: 100%; height: 150px; gap: 0px 10px;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neves-gabriel-f&layout=compact&theme=dark)](https://github.com/neves-gabriel-f/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neves-gabriel-f&layout=compact&theme=tokyonight)](https://github.com/neves-gabriel-f/github-readme-stats)
 
 <!-- ![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=neves-gabriel-f&show_icons=true&theme=dark) -->
 
