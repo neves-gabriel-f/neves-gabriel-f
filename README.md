@@ -11,6 +11,8 @@
 
 * <b>I'm currently studying</b>: Java Spring Boot and Angular.
 
+* <b>I'm currently working on: <a href="https://github.com/euConto">euConto</a></b>
+
 </div>
 <!-- end of about me section -->
 
