@@ -9,9 +9,9 @@
 
 * My focus is on <b>web development</b>, particularly applications using <b>Javascript, Node</b> and some <b>frameworks</b> such as <b>React, Vue and Angular</b>
 
-* <b>I'm currently studying</b>: Java Spring Boot and Angular.
+* <b>I'm currently studying</b>: Nextjs and Angular.
 
-* <b>I'm currently working on: <a href="https://github.com/euConto">euConto</a></b>
+* <b>I'm currently working on: <a href="https://www.linkedin.com/company/grupo-soma/life/ce6e04ee-694e-47be-b84d-eff0b70a6f84/">SOMA Group</a></b>
 
 </div>
 <!-- end of about me section -->
